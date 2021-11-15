@@ -40,5 +40,6 @@ public class Ex09 {
 		System.out.println(!(a>b));//!F -->true !a
 		
 		System.out.println("깃 테스트");
+		System.out.println("깃 테스트");
 	}
 }
