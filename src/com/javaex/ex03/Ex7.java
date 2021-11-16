@@ -8,7 +8,7 @@ public class Ex7 {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("숫자를 입력하세요");
-		System.out.println("숫자: ");
+		System.out.print("숫자: ");
 		
 		int font = sc.nextInt();
 		
